@@ -1,0 +1,4 @@
+Dans ce projet, nous allons voir ce qu'est l'agrégation des liens, autrement dit, l'EtherChannel.
+J'ai découvert cette notion, par curiosité, en suivant un article réalisé par un professionnel et qui m'a inspiré à pouvoir mettre cela en pratique (par le biais de captures)
+Pour expliquer cette notion, c'est la capacité de rassembler plusieurs liens physiques en un seul lien logique reliant principalement deux périphériques (généralement des commutateurs). 
+Avec cela, nous pouvons appliquer la redondance et donc, nous retrouver avec plusieurs liens effectuant le même parcours entre différents appareils.
